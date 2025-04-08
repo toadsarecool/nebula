@@ -13,7 +13,7 @@ Nebula is an AI-powered coding assistant interface built with Next.js and TypeSc
 
 1. Clone the repository:
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/toadsarecool/nebula.git
 cd nebula
 ```
 
